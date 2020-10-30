@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm Shriyut, I mostly work on cloud native technologies with GCP. 
+
 ![Shriyut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shriyut&hide=issues&show_icons=true&theme=onedark)
+
+## Skills
