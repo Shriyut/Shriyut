@@ -24,4 +24,11 @@ I'm Shriyut, I mostly work on cloud native technologies with GCP.
 <p float="left">
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/Shriyut/Shriyut/main/docker.gif"  height="80" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Shriyut/Shriyut/main/k8s.gif" height="80" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/Shriyut/Shriyut/main/terraform.gif" width="120" />
+  </a>
 </p>
