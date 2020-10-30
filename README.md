@@ -23,5 +23,5 @@ I'm Shriyut, I mostly work on cloud native technologies with GCP.
 
 <p float="left">
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Shriyut/Shriyut/master/assets/docker.gif"  height="80" />
+    <img src="https://raw.githubusercontent.com/Shriyut/Shriyut/master/docker.gif"  height="80" />
 </p>
