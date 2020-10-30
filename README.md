@@ -20,3 +20,8 @@ I'm Shriyut, I mostly work on cloud native technologies with GCP.
 ![Shriyut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shriyut&hide=issues&show_icons=true&theme=onedark)
 
 ## Skills
+
+<p float="left">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Shriyut/Shriyut/master/assets/docker.gif"  height="80" />
+</p>
