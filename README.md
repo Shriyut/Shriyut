@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Shriyut, I mostly work on cloud native technologies with GCP. 
+I'm Shriyut, I mostly work on cloud native technologies with GCP. I build robust, secure, and scalable infrastructure using cloud native technologies such as kubernetes, docker, terraform etc.
 
 ![Shriyut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shriyut&hide=issues&show_icons=true&theme=onedark)
 
