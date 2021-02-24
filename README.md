@@ -19,6 +19,7 @@ I'm Shriyut, I mostly work on cloud native technologies with GCP. I build robust
 
 ![Shriyut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shriyut&hide=issues&show_icons=true&theme=onedark)
 
+I have worked with multiple Fortune 500 clients and in diverse and distributed teams across the globe. I'm highly self-motivated, enthusiastic and always willing to learn more.
 ## Skills
 
 <p float="left">
